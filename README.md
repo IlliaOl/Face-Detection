@@ -1,5 +1,5 @@
 # Face-Detection
-Tensorflow implementatiopn of LeNet-5 archtecture trained for a face detection task.
+Tensorflow implementation of LeNet-5 archtecture trained for a face detection task.
 
 Trained network is then used to detect in real time whether there is a human in front of a camera.
 
