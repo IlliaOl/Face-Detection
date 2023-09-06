@@ -8,6 +8,8 @@ This model reaches 78.3% accuracy.
 
 ### LeNet-5
 
+![LeNet-5 architecture](https://user-images.githubusercontent.com/25716030/162345646-b13c9af0-bdb5-4ce7-9a62-c0834cba9e5f.png)
+
 #### Authors
 Yann LeCun, Leon Bottou, Yoshua Bengio, and Patrick Haffner
 
